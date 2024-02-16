@@ -1,2 +1,2 @@
-# Trafik_-areti_S-n-fland-r-lmas-
+# Trafik_Isareti_Siniflandirilmasi
 CNN ile Trafik işaretleri sınıflandırılması.
